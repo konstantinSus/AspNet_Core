@@ -72,5 +72,4 @@ C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\run
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\myProjectApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\myProjectApi.csprojAssemblyReference.cache

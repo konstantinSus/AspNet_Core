@@ -2,10 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using AventStack.ExtentReports;
+using AventStack.ExtentReports.Reporter;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace myProjectApi
 {
@@ -13,6 +13,12 @@ namespace myProjectApi
     {
         public static void Main(string[] args)
         {
+            //var extent = new ExtentReports();
+            //ExtentHtmlReporter htmlReporter = new ExtentHtmlReporter(@"C:\Users\pain-\OneDrive\Desktop\report.html");
+            //extent.AttachReporter(htmlReporter);
+            //htmlReporter.Start();
+            //htmlReporter.Flush();
+
             CreateHostBuilder(args).Build().Run();
         }
 

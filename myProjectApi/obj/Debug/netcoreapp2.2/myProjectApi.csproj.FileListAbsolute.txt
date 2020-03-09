@@ -1,0 +1,17 @@
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp2.2\myProjectApi.csprojAssemblyReference.cache
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp2.2\myProjectApi.AssemblyInfoInputs.cache
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp2.2\myProjectApi.AssemblyInfo.cs
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\myProjectApi.deps.json
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\myProjectApi.runtimeconfig.json
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\myProjectApi.runtimeconfig.dev.json
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\myProjectApi.dll
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\myProjectApi.pdb
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\ExtentReports.dll
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\ExtentReports.pdb
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp2.2\ExtentReports.dll.config
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp2.2\myProjectApi.csproj.CopyComplete
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp2.2\myProjectApi.dll
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp2.2\myProjectApi.pdb

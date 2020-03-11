@@ -15,8 +15,6 @@ namespace myProjectApi.Repository
         public AutoRepository(IOptions<SqlConnectionSettings> settings) => _context = new AutoRepository(settings);
 
 
-
-
         public Task<bool> AddNewAuto(Auto auto)
         {
 

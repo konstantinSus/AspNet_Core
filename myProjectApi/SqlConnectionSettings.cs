@@ -8,8 +8,5 @@ namespace myProjectApi
     public class SqlConnectionSettings
     {
         public string ConnectionString { get; set; }
-
-
-
     }
 }

@@ -51,7 +51,6 @@ C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\Mic
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\Ninject.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
@@ -66,6 +65,7 @@ C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\Sys
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
@@ -147,6 +147,7 @@ C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\bin\Debug\netcoreapp3.1\Ext
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\myProjectApi.csprojAssemblyReference.cache
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\staticwebassets\myProjectApi.StaticWebAssets.Manifest.cache
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\staticwebassets\myProjectApi.StaticWebAssets.xml
+C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\myProjectApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\myProjectApi.RazorAssemblyInfo.cache
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\myProjectApi.RazorAssemblyInfo.cs
 C:\Users\pain-\source\repos\AspNet_Core\myProjectApi\obj\Debug\netcoreapp3.1\myProjectApi.AssemblyInfoInputs.cache

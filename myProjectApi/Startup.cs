@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using myProjectApi.Models;
 
 namespace myProjectApi
 {
@@ -20,11 +22,10 @@ namespace myProjectApi
      */
     public class Startup
     {
-        private IServiceCollection _services;
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-           // _services = services;
+ 
         }
 
         public IConfiguration Configuration { get; }
@@ -33,6 +34,8 @@ namespace myProjectApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<ToyotaAutoContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
         }
 
        // This method gets called by the runtime.Use this method to configure the HTTP request pipeline.

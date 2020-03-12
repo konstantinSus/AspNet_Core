@@ -6,8 +6,13 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace myProjectApi.Controllers
 {
+    [ApiController]
+    [Produces("application/json")]
+    [Route("[controller]")]
     public class ToyotaController : Controller
     {
+
+ 
 
         //[HttpPost]
         //public async Task<Data.PokemonResponce> SearchPokemon([FromBody]Data.SearchPokemon request)
